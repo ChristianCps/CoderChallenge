@@ -1,0 +1,2 @@
+Para iniciar execute o arquivo 'main.exe'
+Informações sobre o projeto e sobre o integrante no documento 'documentação'.

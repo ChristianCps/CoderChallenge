@@ -1,0 +1,19 @@
+Coder Challenge
+
+Nome do time: Team_Uni
+Nome do Integrante: Christian Dantas de Alencar Campos
+Email: christiancampos9559@gmail.com
+
+tecnologias utilizadas: Python, Machine Learning
+Código feito no ambiente de desenvolvimento PyCharm
+
+Arquivos
+
+.baseDados: Programa em que os dados de vários hospedeiros são inseridos e salvos.
+.baseDados.csv: Local em que esses dados são salvos.
+.baseDados_hospedeiros.pkl: modelo de machine learning que foi salvo com base no dados do arquivo 'baseDados.csv'.
+Com base nesse modelo salvo o programa principal é capaz de prever a força, velocidade e inteligência dos dados dos hospedeiros salvos no arquivo 'hospedeiros.csv'.
+.hospedeiros.csv: Local em que os dados do programa principal são salvos.
+.gravação_main.py: Gravação do código 'main' em funcionamento.
+.main: Programa com o código principal.
+.main.exe: Arquivo foi excluído por conter muitos erro e ocupar muito espaço, para rodar o código utilize o arquivo 'main'.
